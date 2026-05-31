@@ -1,7 +1,0 @@
-/home/matias/Projects/rust/iwdtui/target/debug/deps/strip_ansi_escapes-39949f535051ebee.d: /home/matias/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/strip-ansi-escapes-0.2.1/src/lib.rs
-
-/home/matias/Projects/rust/iwdtui/target/debug/deps/libstrip_ansi_escapes-39949f535051ebee.rlib: /home/matias/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/strip-ansi-escapes-0.2.1/src/lib.rs
-
-/home/matias/Projects/rust/iwdtui/target/debug/deps/libstrip_ansi_escapes-39949f535051ebee.rmeta: /home/matias/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/strip-ansi-escapes-0.2.1/src/lib.rs
-
-/home/matias/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/strip-ansi-escapes-0.2.1/src/lib.rs:
